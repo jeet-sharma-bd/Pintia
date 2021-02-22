@@ -1,6 +1,5 @@
 #include <stdio.h>
 int main(){
-
 int x,z=0,y=0;
 
 scanf("%d",&x);
