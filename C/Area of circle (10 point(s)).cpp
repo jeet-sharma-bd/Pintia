@@ -2,6 +2,7 @@
 
 int main()
  {
+	
 	float r, area, pi=3.1415;
 	scanf("%f",&r);
 	area = pi * (r * r);
