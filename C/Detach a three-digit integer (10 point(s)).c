@@ -11,8 +11,5 @@ scanf("%d",&x);
 	printf("%d, ",y);
 	z=x%10;
 	printf("%d",z);
-
-
-
 return 0;
 }
